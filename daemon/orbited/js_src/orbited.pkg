@@ -1,6 +1,0 @@
-{
-    "root": "Orbited",
-    "transports": ["csp"],
-    "environments": ["browser"],
-    "additional_dependancies": [ ]
-}
